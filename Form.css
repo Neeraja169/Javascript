@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet;
+}
+h1{
+    color:blueviolet;
+    text-shadow: 1px 1px 10px rgb(98, 46, 146);
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 50px;
+}
+fieldset{
+    border-color: blueviolet;
+    border-radius: 2%;
+    box-shadow: 2px 2px 10px rgb(24, 3, 44);
+    margin: 350px;
+    margin-top: 0px;
+    padding:28px;
+}
+form div input{
+    width:45%;
+    border-color: rgb(169, 139, 197);
+    box-shadow: 1px 1px 10px rgb(48, 8, 85);
+}
+button{
+    padding:6px;
+    font-size: 20px;
+    margin-left: 150px;
+    border-color: rgb(169, 139, 197);
+    box-shadow: 1px 1px 10px rgb(48, 8, 85);
+}
+#country{
+    width:46%;
+    margin-left: 90px;
+    border-color: rgb(169, 139, 197);
+    box-shadow: 1px 1px 10px rgb(48, 8, 85);
+}
+#male,#female{
+    border-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 10px rgb(255, 254, 255);
+    width:4%;
+    margin-left:105px;
+}
+#surveyForm{
+    line-height: 40px;
+    font-size: 20px;
+}
+#firstName,#lastName,#profession{
+    margin-left: 70px;
+}
+#dob{
+    margin-left: 50px;
+}
+#female{
+    margin-left:50px;
+}
+#email{
+    margin-left: 105px;
+}
+#mobile{
+    margin-left: 25px;
+}
+form div{
+    margin-left: 100px;
+}
+

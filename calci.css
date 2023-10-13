@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:whitesmoke;
+}
+input[type="text"]{
+    height:70px;
+    width:330px;
+    margin-left:495px;
+    margin-top:30px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    outline-color: white;
+    border:0px solid white;
+}
+#calci h1{
+    text-align: center;
+    color:black;
+    margin-top:30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 6px black;
+}
+#menu button{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(63, 122, 95);
+    padding:20px;
+    border:1px solid rgb(32, 99, 65);
+    text-align: center;
+    height:80px;
+    width:100px;
+}
+#content{
+    height:420px;
+    width:350px;
+    background-color: black;
+    margin-left: 498px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    margin: 40px;
+}
+#row1,#row2,#row3,#row4{
+    padding:30px;
+    padding-top: 48px;
+}
+#content2{
+    height:415px;
+    width:100px;
+    background-color: grey;
+    margin-left: 830px;
+    padding-top: 10px;
+    margin-top: -425px;
+    font-size: 20px;
+    text-align: center;
+}
+#content2 a{
+    display:inline-block;
+}
